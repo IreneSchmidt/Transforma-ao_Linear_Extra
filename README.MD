@@ -2,7 +2,7 @@
 
 ## Abordagem do Projeto
 
-Para começar este trabalho, o foco foi entender o básico de transformações lineares aplicadas em imagens (rotação, escala e cisalhamento). Sempre tive dificuldade e bloqueio com matemática, então no início tudo pareceu muito confuso. 
+Para começar este trabalho, o foco foi entender o básico de transformações lineares aplicadas em imagens (rotação, escala e cisalhamento). Sempre tivemos dificuldade e bloqueio com matemática, então no início tudo pareceu muito confuso. 
 
 Fomos insistindo, pedimos ajuda ao monitor para entender melhor a proposta da atividade extra **e também usamos IA para pedir explicações detalhadas passo a passo** sobre cada etapa - tanto da parte matemática quanto da implementação em código. Com isso, conseguimos dividir o problema em partes menores:
 
